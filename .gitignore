@@ -1,0 +1,12 @@
+node_modules/
+.venv/
+.venv-osm/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.log
+data/trips.json
+data/geocode-cache.json
+data/places-cache/
+india-261019.osm.pbf
